@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>University Registration Form</h1>
+    <p>Please fill out the form</p>
+    <hr>
+
+    <form action="">
+        <h2>Personal Details</h2>
+        <label for="name">First Name:</label>
+        <input type="text" name="name" id="name" placeholder="Enter your name" required>
+        <br><br>
+        <label for="surname">Last Name:</label>
+        <input type="text" name="surname" id="surname" placeholder="Enter your surname" required>
+        <br><br>
+        <label for="dob">Date of Birth:</label>
+        <input type="date" name="dob" id="dob">
+
+        <h3>Gender</h3>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" value="male" id="male"><br><br>
+        <label for="female">Female</label>
+        <input type="radio" name="gender" value="female" id="female"><br><br>
+        <label for="other">Other</label>
+        <input type="radio" name="gender" value="other" id="other"><br><br>
+        <h3>Upload our Photo</h3>
+        <input type="file" name="photo" id="photo">
+        <hr>
+        <h2>Contact Information</h2>
+        <label for="email">Email:</label>
+        <input type="email" name="email" value="email" id="email" placeholder="Enter your email">
+        <br><br>
+        <label for="phone">PhoneNumber:</label>
+        <input type="tel" name="phone" value="phone" id="phone" placeholder="Enter your phone number">
+        <br><br>
+        <label for="address">Address:</label>
+        <textarea name="address" id="address" value="address" cols="30" rows="4"></textarea>
+        <hr>
+        <h2>Academic Information</h2>
+        <label for="course">Select Course:</label>
+        <select name="course" id="course">
+            <option value="computer_science">Computer Science</option>
+            <option value="business_administration">Business Administration</option>
+            <option value="psychology">Psychology</option>
+            <option value="engineering">Engineering</option>
+            <option value="biology">Biology</option>
+        </select>
+        <br>
+        <h3>Extra Curricular Activity</h3>
+        <label for="">sports</label>
+        <input type="checkbox" name="sports" id="sports"><br><br>
+        <label for="">music</label>
+        <input type="checkbox" name="music" id="music"><br><br>
+        <label for="">arts</label>
+        <input type="checkbox" name="arts" id="arts"><br><br>
+        <label for="">volunteering</label>
+        <input type="checkbox" name="volunteering" id="volunteering"><br><br>
+        <label for="">others</label>
+        <input type="checkbox" name="others" id="others"><br><br>
+        <hr>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>

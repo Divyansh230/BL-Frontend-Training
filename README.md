@@ -66,3 +66,23 @@ I created a **simple HTML table** to practice:
 ### 🖼️ HTML Table Practice Preview
 **![alt text](image-1.png)**
 
+---
+I studied **HTML Forms** to understand how user input is collected on a webpage.
+
+### 🔹 Concepts Covered
+- `<form>` – Form container  
+- `<input>` – Text, email, password, number inputs  
+- `<label>` – Proper labeling of form fields  
+- `<textarea>` – Multi-line text input  
+- `<select>` & `<option>` – Dropdown menus  
+- `<button>` – Submit button  
+- Basic attributes like `type`, `name`, `placeholder`, `required`
+
+### 🛠️ Practice
+I created a **simple HTML form** to practice:
+- Taking user input  
+- Using different input types  
+- Structuring a clean and readable form  
+
+### 🖼️ HTML Form Practice Preview
+**![alt text](image-2.png)**
