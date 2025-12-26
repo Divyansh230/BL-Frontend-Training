@@ -102,3 +102,15 @@ I practiced embedding:
 - Images using proper paths and alt text  
 - Audio files with playback controls  
 - Video files with basic controls  
+
+---
+
+## 📅 Day 2 Task: Basics of CSS
+
+I Started Learning **CSS (Cascading Stylesheets)** to understand how to stylize our website. Basically skin of the skeleton created in html
+
+### 🔹 Concepts Covered
+-`<inline>`:How to apply css within inline elements
+-`<internal>`:How to apply css by using only <style> tag
+-`<external>`:Using external css and making the importance of using it.
+-`<Units>`:All the units used in css 
