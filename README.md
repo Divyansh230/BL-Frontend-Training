@@ -60,8 +60,6 @@ I created a **simple HTML table** to practice:
 - Header vs data cells  
 - Clean and readable table structure  
 
-### 🖼️ HTML Table Practice Preview
-**![alt text](image-1.png)**
 
 ---
 I studied **HTML Forms** to understand how user input is collected on a webpage.
