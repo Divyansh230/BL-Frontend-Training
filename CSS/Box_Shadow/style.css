@@ -1,0 +1,6 @@
+    .container {
+        width: 200px;
+        height: 200px;
+        background-color: lightblue;
+        box-shadow: -10px -10px 10px 6px rgb(129, 129, 205);
+    }
