@@ -131,3 +131,9 @@ Secondry Learned about css flexbox model, Specially Parent child property for th
 Studied about CSS Grid and Learned how to Develop modern ui 
 ### 🖼️ HTML Form Practice Preview
 ![alt text](image-1.png)
+
+
+
+Studies about **Media Queries and Box Shadows** 
+- Learned to make the Website responsive 
+- Learned to Make UI more attractive with the use of box shadows.
