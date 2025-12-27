@@ -114,3 +114,16 @@ I Started Learning **CSS (Cascading Stylesheets)** to understand how to stylize 
 -`<internal>`:How to apply css by using only <style> tag
 -`<external>`:Using external css and making the importance of using it.
 -`<Units>`:All the units used in css 
+
+
+
+---
+## 📅 Day 3 Task: CSS Box Model,Positioning of the Elements and Flexbox
+
+Started Learning about box model in which covered the concept of margin,padding,block element and inline-block element.
+
+Secondry Learned about css flexbox model, Specially Parent child property for the alligning of the items
+
+
+### 🖼️ HTML Form Practice Preview
+
