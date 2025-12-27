@@ -128,3 +128,11 @@ Secondry Learned about css flexbox model, Specially Parent child property for th
 ### 🖼️ HTML Form Practice Preview
 
 ![alt text](image.png)
+
+
+---
+
+## 📅 Day 3 Task: CSS Box Model,Positioning of the Elements and Flexbox
+
+Studied about CSS Grid and Learned how to Develop modern ui 
+### 🖼️ HTML Form Practice Preview
