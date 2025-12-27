@@ -38,11 +38,8 @@ As part of **Day 1 practice**, I created a **simple HTML webpage** using the con
 
 ---
 
-## 🖼️ Practice Webpage Preview
 
-Below is the screenshot of the webpage created during **![alt text](image.png)**:
 
----
 
 ## 📘 Studied Topic: HTML Tables (Day 1)
 
@@ -84,8 +81,7 @@ I created a **simple HTML form** to practice:
 - Using different input types  
 - Structuring a clean and readable form  
 
-### 🖼️ HTML Form Practice Preview
-**![alt text](image-2.png)**
+
 
 ---
 I also studied **HTML Media Elements** to understand how multimedia content like images, audio, and video can be embedded into a webpage.
