@@ -99,7 +99,7 @@ if (form) {
 }
 
 
-//Redner Employees Table
+
 
 function renderEmployeesTable(filterText = "") {
     const table = document.getElementById("employeeTableBody");
