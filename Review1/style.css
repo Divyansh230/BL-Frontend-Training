@@ -41,7 +41,7 @@
         
         #footer {
             background-color: sandybrown;
-            height: 15vh;
+            height: 10vh;
         }
         
         @media (max-width: 768px) {
