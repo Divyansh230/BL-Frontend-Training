@@ -18,9 +18,39 @@ h1 {
     text-align: center;
 }
 
+.search-container {
+    width: 80%;
+    margin: 0 auto 30px auto;
+    display: flex;
+    justify-content: center;
+}
+
+#searchInput {
+    width: 100%;
+    max-width: 400px;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: 2px solid rgb(227, 223, 223);
+    background-color: rgb(23, 22, 22);
+    color: rgb(220, 210, 210);
+    border-radius: 25px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#searchInput::placeholder {
+    color: rgba(220, 210, 210, 0.5);
+}
+
+#searchInput:focus {
+    border-color: orange;
+    box-shadow: 0 0 10px rgba(255, 165, 0, 0.3);
+}
+
 h2 {
     font-size: 20px;
     font-family: cursive;
+    color: aliceblue;
 }
 
 a {
