@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Sum from './Sum'
 
 
 function App() {
@@ -6,7 +7,9 @@ function App() {
 
   return (
     <>
-      <h1>Learn About Redux toolkit</h1>
+      <h1>Coubter:{count}</h1>
+      <button onClick={()=>setCount(count+1)}>Increment</button>
+      <Sum/>
     </>
   )
 }
